@@ -54,3 +54,7 @@ The attendance is stored in `attendance.csv` with name and timestamp.
 * Understanding of face detection and recognition
 * Handling real-world dataset issues
 * Debugging file handling and encoding errors
+
+## 🧪 Sample Output
+
+Screenshots of the system detecting faces and marking attendance are available in the `results/` folder.
