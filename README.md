@@ -60,3 +60,5 @@ The attendance is stored in `attendance.csv` with name and timestamp.
 Screenshots of the system detecting faces and marking attendance are available in the `results/` folder.
 
 
+
+
